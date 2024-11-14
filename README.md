@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">▸ He/Him - Brazilian - (pt/br + English)<br>   ┗ ▸ Software Engineering Student at PUC-Campinas & Full Stack Developer<br>▸ Learning<br>    ┗ ▸ Java (OOP)<br>      ▸  Linux<br>      ▸  NestJS<br>      ▸  Data Analysis<br>      ▸  English</p>
+<p align="left">▸ He/Him - Brazilian - (pt/br + English)  <br>   ‎ ‎ ‎ ‎ ‎ ─ Aspiring Full Stack Developer & Software Engineering Student at PUC-Campinas  <br>▸ Currently Learning  <br>      ‎ ‎ ‎ ‎ ‎ ─ Java (OOP)  <br>      ‎ ‎ ‎ ‎ ‎ ─ Linux Fundamentals  <br>      ‎ ‎ ‎ ‎ ‎ ─ NestJS Framework  <br>      ‎ ‎ ‎ ‎ ‎ ─ Data Analysis Techniques  <br>      ‎ ‎ ‎ ‎ ‎ ─ English Proficiency  <br>▸ Passionate About  <br>      ‎ ‎ ‎ ‎ ‎ ─ Continuous Learning  <br>      ‎ ‎ ‎ ‎ ‎ ─ Software Development  <br>      ‎ ‎ ‎ ‎ ‎ ─ Problem Solving  <br>      ‎ ‎ ‎ ‎ ‎ ─ Innovation in Technology</p>
 
 ###
 
