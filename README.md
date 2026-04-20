@@ -83,16 +83,6 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 
 ---
 
-## Featured Project
-
-<a href="https://github.com/Kenji1655/dotfiles">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=dotfiles&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-</a>
-
-A full Arch Linux + i3wm workstation: Gruvbox Dark Hard, ThinkPad-tuned, DisplayLink dock aware, with power profiles, thinkfan, autotiling, a Rofi control center, and scripted maintenance. Documented, reproducible, and restorable with one script.
-
----
-
 ## GitHub Stats
 
 <div align="center">
