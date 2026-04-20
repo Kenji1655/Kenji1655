@@ -112,19 +112,8 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 ## Selected Work
 
 <p>
-  <a href="https://github.com/Kenji1655/BagView">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=BagView&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/Travely">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Travely&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/Kenji1655/linux-discord-rich-presence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=linux-discord-rich-presence&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/Projeto-Integrador-6">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Projeto-Integrador-6&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  <a href="https://github.com/Kenji1655/dotfiles">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=dotfiles&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
   </a>
 </p>
 
