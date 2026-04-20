@@ -95,10 +95,6 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 
 <br /><br />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kenji1655&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=6" />
-
-<br />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kenji1655/Kenji1655/output/github-snake-gruvbox.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenji1655/Kenji1655/output/github-snake.svg" />
