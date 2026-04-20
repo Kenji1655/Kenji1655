@@ -15,7 +15,7 @@
 
 ## About
 
-Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and Android Framework Core intern at Motorola for the past 11 months. I like building software close to the metal and shipping clean user-facing experiences on top of it. Right now I am deepening Android Open Source Project internals, systems programming with Rust, and Linux from the kernel up.
+Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and Android Framework Core intern at Motorola for the past 11 months. I work low in the stack when it matters and ship clean user-facing things on top. Current focus: AOSP internals, Rust, and Linux from the kernel up.
 
 ```text
   Role        Android Framework Core Intern at Motorola
@@ -50,14 +50,13 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
   <img src="https://img.shields.io/badge/Python-689D6A?style=for-the-badge&logo=python&logoColor=EBDBB2" />
 </p>
 
-**Frameworks and Runtime**
+**Platforms and Runtime**
 
 <p>
-  <img src="https://img.shields.io/badge/Android-98971A?style=for-the-badge&logo=android&logoColor=EBDBB2" />
   <img src="https://img.shields.io/badge/AOSP-689D6A?style=for-the-badge&logo=android&logoColor=EBDBB2" />
-  <img src="https://img.shields.io/badge/Angular-CC241D?style=for-the-badge&logo=angular&logoColor=EBDBB2" />
+  <img src="https://img.shields.io/badge/Android-98971A?style=for-the-badge&logo=android&logoColor=EBDBB2" />
+  <img src="https://img.shields.io/badge/Linux-D79921?style=for-the-badge&logo=linux&logoColor=1D2021" />
   <img src="https://img.shields.io/badge/Node.js-98971A?style=for-the-badge&logo=nodedotjs&logoColor=EBDBB2" />
-  <img src="https://img.shields.io/badge/Spring-98971A?style=for-the-badge&logo=spring&logoColor=EBDBB2" />
 </p>
 
 **Databases**
@@ -100,9 +99,34 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kenji1655&bg_color=1D2021&color=FABD2F&line=FE8019&point=EBDBB2&area=true&area_color=98971A&hide_border=true&custom_title=Contribution+Activity" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kenji1655/Kenji1655/output/github-snake-gruvbox.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kenji1655/Kenji1655/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/Kenji1655/Kenji1655/output/github-snake-gruvbox.svg" />
+</picture>
 
 </div>
+
+---
+
+## Selected Work
+
+<p>
+  <a href="https://github.com/Kenji1655/BagView">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=BagView&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/Travely">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Travely&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+</p>
+<p>
+  <a href="https://github.com/Kenji1655/linux-discord-rich-presence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=linux-discord-rich-presence&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/Projeto-Integrador-6">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Projeto-Integrador-6&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+</p>
 
 ---
 
@@ -111,7 +135,7 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 - **11 months** at Motorola on the Android Framework Core team.
 - Competed in **internal Motorola hackathons**.
 - Ongoing deep dive into **AOSP internals** and **Rust**.
-- Self-hosted, fully scripted Linux workstation in public at [`Kenji1655/dotfiles`](https://github.com/Kenji1655/dotfiles).
+- Self-hosted, fully scripted Arch Linux + i3 workstation at [`Kenji1655/dotfiles`](https://github.com/Kenji1655/dotfiles).
 
 ---
 
