@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=800&color=FABD2F&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Gustavo+Kenji;Android+Framework+Engineer+%40+Motorola;Fullstack+%7C+Systems+%7C+Linux+Enthusiast" alt="typing" />
+<img src="./output.gif" alt="Terminal profile animation" width="760" />
 
 <br />
 
@@ -105,38 +105,13 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 
 ---
 
-## Selected Work
-
-<p>
-  <a href="https://github.com/Kenji1655/linux-discord-rich-presence">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=linux-discord-rich-presence&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/dotfiles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=dotfiles&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/bagview-fullstack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=bagview-fullstack&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/taskflow-clean-architecture">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=taskflow-clean-architecture&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/lockbox-cabinet-rentals">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=lockbox-cabinet-rentals&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-  <a href="https://github.com/Kenji1655/expression-calculator-c">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=expression-calculator-c&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
-</p>
-
----
-
 ## Highlights
 
 - **11 months** at Motorola on the Android Framework Core team.
 - Competed in **internal Motorola hackathons**.
 - Ongoing deep dive into **AOSP internals** and **Rust**.
-- Self-hosted, fully scripted Arch Linux + i3 workstation at [`Kenji1655/dotfiles`](https://github.com/Kenji1655/dotfiles).
-- Fullstack academic products with Angular, NestJS, Kotlin, Firebase, Flask, and MongoDB.
+- Self-hosted, fully scripted Arch Linux + i3 workstation.
+- Private academic and personal projects across Android, backend, frontend, systems, automation, and tooling.
 
 ---
 
