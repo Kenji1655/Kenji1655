@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./output.gif" alt="Terminal profile animation" width="760" />
+<img src="https://raw.githubusercontent.com/kenjiknk/gif-terminal/main/output.gif" alt="Terminal profile animation" width="760" />
 
 <br />
 
