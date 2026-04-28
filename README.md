@@ -8,15 +8,32 @@
 
 ## About
 
-```text
-Education   Software Engineering at PUC-Campinas
-            IT Technician, Escolas Padre Anchieta - Jundiai, SP
-Role        Android Framework Core Intern at Motorola
-Focus       Android Framework, AOSP, Java, debugging and performance
-Learning    Rust, C, fullstack development, tests, architecture and DevOps
-System      Arch Linux + i3 + Neovim
-Based in    Campinas, Brazil
-```
+<table>
+  <tr>
+    <td><strong>Education</strong></td>
+    <td>Software Engineering at PUC-Campinas<br />IT Technician, Escolas Padre Anchieta - Jundiai, SP</td>
+  </tr>
+  <tr>
+    <td><strong>Role</strong></td>
+    <td>Android Framework Core Intern at Motorola</td>
+  </tr>
+  <tr>
+    <td><strong>Focus</strong></td>
+    <td>Android Framework, AOSP, Java, debugging and performance</td>
+  </tr>
+  <tr>
+    <td><strong>Learning</strong></td>
+    <td>Rust, C, fullstack development, tests, architecture and DevOps</td>
+  </tr>
+  <tr>
+    <td><strong>System</strong></td>
+    <td>Arch Linux + i3 + Neovim</td>
+  </tr>
+  <tr>
+    <td><strong>Based in</strong></td>
+    <td>Campinas, Brazil</td>
+  </tr>
+</table>
 
 
 ## Connect
