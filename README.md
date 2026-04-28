@@ -108,8 +108,23 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 ## Selected Work
 
 <p>
+  <a href="https://github.com/Kenji1655/linux-discord-rich-presence">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=linux-discord-rich-presence&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
   <a href="https://github.com/Kenji1655/dotfiles">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=dotfiles&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/bagview-fullstack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=bagview-fullstack&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/taskflow-clean-architecture">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=taskflow-clean-architecture&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/Travely">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Travely&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/lockbox-cabinet-rentals">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=lockbox-cabinet-rentals&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
   </a>
 </p>
 
@@ -121,6 +136,7 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
 - Competed in **internal Motorola hackathons**.
 - Ongoing deep dive into **AOSP internals** and **Rust**.
 - Self-hosted, fully scripted Arch Linux + i3 workstation at [`Kenji1655/dotfiles`](https://github.com/Kenji1655/dotfiles).
+- Fullstack academic products with Angular, NestJS, Kotlin, Firebase, Flask, and MongoDB.
 
 ---
 
