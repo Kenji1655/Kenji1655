@@ -10,6 +10,7 @@
 
 ```text
 Education   Software Engineering at PUC-Campinas
+            IT Technician, Escolas Padre Anchieta - Jundiai, SP
 Role        Android Framework Core Intern at Motorola
 Focus       Android Framework, AOSP, Java, debugging and performance
 Learning    Rust, C, fullstack development, tests, architecture and DevOps
