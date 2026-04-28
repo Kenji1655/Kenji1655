@@ -15,12 +15,14 @@
 
 ## About
 
-Software Engineering student at PUC-Campinas and Android Framework Core intern at Motorola. I am building a strong foundation in software engineering, with focus on Android internals, clean code, automated testing, architecture, DevOps practices and fullstack development.
+I am a Software Engineering student at PUC-Campinas and an Android Framework Core intern at Motorola.
+
+I like understanding how software works beneath the surface: platform internals, system layers, build flows, debugging, performance and the engineering practices that keep code maintainable. Right now, my main focus is Android, Java, AOSP, Linux and building a stronger foundation in backend, frontend, testing, architecture and DevOps.
 
 ```text
 Role        Android Framework Core Intern at Motorola
-Focus       Android Framework, AOSP, Java, build/system, debugging, performance
-Learning    Rust, C, backend, frontend, tests, architecture, cloud and security
+Focus       Android Framework, AOSP, Java, debugging and performance
+Learning    Rust, C, fullstack development, tests, architecture and DevOps
 System      Arch Linux + i3 + Neovim
 Based in    Campinas, Brazil
 ```
@@ -32,9 +34,6 @@ Based in    Campinas, Brazil
 <p>
   <a href="https://www.linkedin.com/in/gustavo-kenji-kaneko/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-458588?style=for-the-badge&logo=linkedin&logoColor=EBDBB2" />
-  </a>
-  <a href="https://discordapp.com/users/1162736132832903188" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-B16286?style=for-the-badge&logo=discord&logoColor=EBDBB2" />
   </a>
   <a href="https://github.com/kenjiknk">
     <img src="https://img.shields.io/badge/GitHub-1D2021?style=for-the-badge&logo=github&logoColor=EBDBB2" />
