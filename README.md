@@ -2,8 +2,6 @@
 
 ![Terminal GIF](https://raw.githubusercontent.com/kenjiknk/gif-terminal/main/output.gif)
 
-<br />
-
 </div>
 
 ---
