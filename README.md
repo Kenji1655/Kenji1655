@@ -120,11 +120,11 @@ Software Engineering student at PUC-Campinas (sixth semester, class of 2027) and
   <a href="https://github.com/Kenji1655/taskflow-clean-architecture">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=taskflow-clean-architecture&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
   </a>
-  <a href="https://github.com/Kenji1655/Travely">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=Travely&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
-  </a>
   <a href="https://github.com/Kenji1655/lockbox-cabinet-rentals">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=lockbox-cabinet-rentals&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
+  </a>
+  <a href="https://github.com/Kenji1655/expression-calculator-c">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kenji1655&repo=expression-calculator-c&theme=gruvbox&hide_border=true&bg_color=1D2021&title_color=FABD2F&icon_color=FE8019&text_color=EBDBB2" />
   </a>
 </p>
 
