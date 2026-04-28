@@ -9,7 +9,7 @@
 ## About
 
 ```text
-Education   Pontifícia Universidade Católica de Campinas (PUC-Campinas)
+Education   Software Engineering at PUC-Campinas
 Role        Android Framework Core Intern at Motorola
 Focus       Android Framework, AOSP, Java, debugging and performance
 Learning    Rust, C, fullstack development, tests, architecture and DevOps
