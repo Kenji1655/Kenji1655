@@ -4,7 +4,7 @@
 
 </div>
 
----
+
 
 ## About
 
@@ -17,7 +17,6 @@ System      Arch Linux + i3 + Neovim
 Based in    Campinas, Brazil
 ```
 
----
 
 ## Connect
 
