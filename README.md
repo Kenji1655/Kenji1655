@@ -8,11 +8,11 @@
 
 ## About
 
-Software Engineering student at PUC-Campinas and Android Framework Core Intern at Motorola.
+Software Engineering student at PUC-Campinas, with previous experience as an Android Framework Core Intern at Motorola.
 
 IT Technician from Escolas Padre Anchieta, Jundiai - SP.
 
-Focused on Android Framework, AOSP, Java, debugging and performance.  
+Focused on Android, AOSP, Java, debugging, performance and backend development.  
 Currently learning Rust, C, fullstack development, tests, architecture and DevOps.
 
 
