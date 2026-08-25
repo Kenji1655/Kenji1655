@@ -9,8 +9,8 @@
 ## About
 
 Software Engineering student at PUC-Campinas. DevEx Intern at [@toradex](https://github.com/toradex), ex-[@motorolamobilityllc](https://github.com/motorolamobilityllc) (Android Framework Core).
+
 Focused on embedded Linux, Android/AOSP, cloud, security and backend.
-Currently learning Rust, C, tests, architecture and DevOps.
 
 
 ## Connect
