@@ -8,12 +8,9 @@
 
 ## About
 
-Software Engineering student at PUC-Campinas, with previous experience as an Android Framework Core Intern at [@motorolamobilityllc](https://github.com/motorolamobilityllc).
-
-IT Technician from Escolas Padre Anchieta, Jundiai - SP.
-
-Focused on Android, AOSP, Java, debugging, performance and backend development.  
-Currently learning Rust, C, fullstack development, tests, architecture and DevOps.
+Software Engineering student at PUC-Campinas. DevEx Intern at [@toradex](https://github.com/toradex), ex-[@motorolamobilityllc](https://github.com/motorolamobilityllc) (Android Framework Core).
+Focused on embedded Linux, Android/AOSP, cloud, security and backend.
+Currently learning Rust, C, tests, architecture and DevOps.
 
 
 ## Connect
